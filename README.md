@@ -1,5 +1,4 @@
 # MIST_4610-Project-2
-# MIST_4610 Project 2
 Group name: 
 61608 Group 3
 
